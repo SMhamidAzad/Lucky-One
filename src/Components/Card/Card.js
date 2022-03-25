@@ -1,4 +1,5 @@
 import React from 'react';
+import CardInfo from '../CardInfo/CardInfo';
 
 const Card = (props) => {
     console.log(props.cart);
@@ -6,7 +7,7 @@ const Card = (props) => {
         <div>
             <h3>Order Summary</h3>
             {
-                props.cart.map(item => <h4>{item.name}</h4>)
+                props.cart.map(item => <CardInfo key={item.id} cart={item}></CardInfo>)
             }
         </div>
     );
