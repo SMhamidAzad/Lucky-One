@@ -1,0 +1,68 @@
+[
+    {
+      "id": "6237e48c95d57f19cdb430a0",
+      "price": 109800,
+      "name": "2021 Mercedes-Benz S-Class",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2021/02/2021_Mercedes_S-Class_Gallery1.jpg"
+    },
+    {
+      "id": "6237e48cf083a8c594366f63",
+      "price": 86500,
+      "name": "2021 Audi A8",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/filters:format(jpg)/https://www.forbes.com/wheels/wp-content/uploads/2020/10/2021_Audi_A8_gallery_1.png"
+    },
+    {
+      "id": "6237e48c1ac934bc3b9c8aa1",
+      "price": 54200,
+      "name": "2021 BMW 5 Series",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2020/10/2021_BMW_5_Series_Gallery1.jpg"
+    },
+    {
+      "id": "6237e48cd3fca57419b148f5",
+      "price": 60050,
+      "name": "2021 Volvo S90 T8 Recharge",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2021/04/2021_Volvo_S90_Recharge_Gallery1.jpg"
+    },
+    {
+      "id": "6237e48c06ab41036ac1ca21",
+      "price": 54250,
+      "name": "2021 Mercedes-Benz E-Class",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/filters:format(jpg)/https://www.forbes.com/wheels/wp-content/uploads/2021/02/2021_Mercedes_Benz_E-Class-TOP_GALLERY_960.png"
+    },
+    {
+      "id": "6237e48cacac1c40fa234a7b",
+      "price": 47700,
+      "name": "2021 Genesis G80",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2020/10/2021-Genesis-G80-gallery.jpg"
+    },
+    {
+      "id": "6237e48cacac1c40fa234b0c",
+      "price": 86800,
+      "name": "2022 BMW 7 Series",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2021/06/2022_BMW_7_Series_Gallery1.jpg"
+    },
+    {
+      "id": "6237e48cacac1c40fa234c1d",
+      "price": 39900,
+      "name": "2021 Lexus ES",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2020/10/2021_Lexus_ES_Gallery1.jpg"
+    },
+    {
+      "id": "6237e48cacac1c40fa234d2e",
+      "price": 81190,
+      "name": "2021 Tesla Model S",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2021/02/2021-Tesla-Model-S-hero.jpg"
+    },
+    {
+      "id": "6237e48cacac1c40fa234e3f",
+      "price": 73000,
+      "name": "2020 Genesis G90",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2020/01/2020-genesis-90-sedan2.jpg"
+    },
+    {
+      "id": "6237e48cacac1c40fa234f4g",
+      "price": 36900,
+      "name": "2021 Cadillac CT5",
+      "img": "https://thumbor.forbes.com/thumbor/fit-in/960x600/https://www.forbes.com/wheels/wp-content/uploads/2020/10/2021_Cadillac_CT5_Gallery1.jpg"
+    }
+  ]
