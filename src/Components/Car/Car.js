@@ -14,6 +14,15 @@ const Car = () => {
         const newCart = [...cart,car];
         setCart(newCart)
     }
+    const chooseRandomOne=()=>{
+        const random1 =Math.floor(Math.random() * cart.length);
+        // console.log(cart[random1]);
+        setCart([cart[random1]]);
+    }
+    const chooseAgain=()=>{
+        setCart([])
+        // console.log('clicked');
+    }
     return (
         <div className='row'>
             <div className='col-md-9'>
@@ -28,7 +37,11 @@ const Car = () => {
                 </div>
             </div>
             <div className='col-md-3'>
-                 <Card key={cart.id} cart={cart}></Card>
+               <Card key={cart.id} cart={cart}></Card>
+               
+               <button onClick={()=>chooseRandomOne()} className='btn btn-success me-1'>Choose 1 for me</button>
+
+               <button onClick={()=>chooseAgain()} className='btn btn-success ms-1'>Choose Again</button>
             </div>
         </div>
     );
