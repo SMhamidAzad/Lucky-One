@@ -47,7 +47,7 @@ const Car = () => {
                      <h3 className='mb-4'>People Want to Know: </h3>
                     <div className="col-md-4 quesAns">
                         <h3>How React Works?</h3>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus iusto quas tempore obcaecati modi, quia, quam at provident voluptatem sint assumenda itaque dignissimos. Cum, beatae? Ad, officia! Ab, nobis aspernatur.
+                         <p>React has Virtual Dom. Which </p>
                     </div>
                     <div className="col-md-4 quesAns">
                         <h3>Difference Betweeen Props And State (props vs state)</h3>

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Lucky Car Buyer
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project netlify link is: [Lucky Car Buyer](https://lucky-car-buyer-sm-hamid.netlify.app/).
 
 ## Available Scripts
 
