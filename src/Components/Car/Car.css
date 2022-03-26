@@ -1,0 +1,12 @@
+.choose-car{
+    background-color: #F4613E;
+    position: fixed;
+    right: 0;
+    height: 80vh;
+    border-radius: 10px 30px;
+}
+.choose-car button{
+    border-radius: 5px 15px;
+    padding: 8px;
+    color: white;
+}

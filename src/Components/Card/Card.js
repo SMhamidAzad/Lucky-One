@@ -3,10 +3,9 @@ import CardInfo from '../CardInfo/CardInfo';
 
 const Card = (props) => {
     console.log(props.cart);
-    
     return (
-        <div>
-            <h3>Order Summary</h3>
+        <div className='container'>
+            <h3 className='text-white my-3'>Your Favorite Car</h3>
             {
                  props.cart.map(item => <CardInfo key={item.id} cart={item}></CardInfo>)    
             }
