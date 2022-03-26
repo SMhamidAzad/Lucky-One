@@ -1,0 +1,7 @@
+.quesAns{
+    /* border: 2px solid #FFD800; */
+    border-left: 10px solid #FFD800;
+    border-image-slice: 1;
+    margin-bottom: 15px;
+    background-color: #E05C0A;
+}

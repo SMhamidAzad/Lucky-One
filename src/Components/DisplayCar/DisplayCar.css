@@ -1,14 +1,30 @@
 .display-car{
     border: none;
-    border: 2px solid #F4613E;
+    border: 2px solid #E05C0A;
     border-radius: 10px 30px;
+    background-color: #ebd6ca56;
+}
+.display-car:hover{
+    background-color: #ffd9007e;
 }
 .display-car img{
     border-radius: 10px 30px;
+    border: 2px solid #FFD800;
     margin: 5px;
 }
+.display-car .car-price{
+    font-weight: 700;
+    color: #E05C0A;
+    font-size: 20px;
+}
 .display-car button{
+    background-color: #FFD800;
     border-radius: 5px 15px;
-    padding: 8px;
-    color: #F4613E;
+    /* padding: 8px; */
+    color: black;
+    font-weight: 700;
+}
+.display-car button:hover{
+    background-color: #212121;
+    color: white;
 }

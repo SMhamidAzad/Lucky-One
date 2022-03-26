@@ -1,6 +1,6 @@
 # Lucky Car Buyer
 
-This project netlify link is: [Lucky Car Buyer](https://lucky-car-buyer-sm-hamid.netlify.app/).
+Project Live site link: [Lucky Car Buyer](https://lucky-car-buyer-sm-hamid.netlify.app/).
 
 ## Available Scripts
 

@@ -1,0 +1,35 @@
+.choose-car button{
+    border-radius: 5px 15px;
+    /* padding: 4px 10px; */
+    color: black;
+    background-color: #FFD800;
+    font-weight: 700;
+}
+.choose-car button:hover{
+    background-color: black;
+    color: white;
+}
+
+@media (min-width: 688px) {
+    .choose-car{
+        background-color: #E05C0A;
+        position: fixed;
+        right: 0;
+        height: 80vh;
+        border-radius: 10px 30px;
+    }
+    .choose-car:hover{
+        background-color: #fa7929e5;
+    }
+}
+@media (max-width: 688px) {
+    .choose-car{
+        background-color: #E05C0A;
+        height: 70vh;
+        border-radius: 10px 30px;
+        margin-bottom: 20px;
+    }
+    .choose-car:hover{
+        background-color: #fa7929e5;
+    }
+}
